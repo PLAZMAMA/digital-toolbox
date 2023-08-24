@@ -5,5 +5,5 @@ Welcome to Toolbox's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Anime
-   Useful
+   Entertainment
+   Databases
